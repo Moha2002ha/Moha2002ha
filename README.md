@@ -20,15 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : {"C", "Python", "Javascript", "Java", "c++" },
-  };
-}
-```
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 <div align="center" >
